@@ -1,5 +1,5 @@
 # =============================================================================
-# app.py — Hypertension Risk Prediction Tool
+# app_vi_v32.py — Hypertension Risk Prediction Tool
 # Rwanda MOH — WHO STEPS Survey Nationwide
 # CatBoost v2 · AUC=0.734 · 16 Monotonic Constraints
 # =============================================================================
